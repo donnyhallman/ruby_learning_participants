@@ -1,4 +1,5 @@
-RubyLearning.org Participants' Countries
+R
+byLearning.org Participants' Countries
 
 Now three tools available.
 - ruby_launcher.rb   : Launches Shoes app, shoes_countries_new.rb. Specify the course name.
@@ -59,3 +60,5 @@ Change log:
 
 Cheers,
 ashbb (Satoshi Asakawa)
+
+Whatever....
